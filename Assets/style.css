@@ -12,7 +12,14 @@ textarea {
   padding: 10px;
 }
 
-.description {
+header {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(48, 63, 76);
+  background-color: rgb(215, 231, 245);
+}
+
+.event {
   white-space: pre-wrap;
 }
 
@@ -31,7 +38,7 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #f5f2f2;
   color: white;
 }
 
@@ -56,4 +63,12 @@ textarea {
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  background-color: rgb(215, 231, 245);
 }
