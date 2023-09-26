@@ -4,7 +4,7 @@ work-digital-planner is a beta site designed by a novice student that includes a
 
 ## Installation
 
-Use the link to access the site: 
+Use the link to access the site: https://alesofia9.github.io/work-digital-planner/
 
 ## Usage
 
