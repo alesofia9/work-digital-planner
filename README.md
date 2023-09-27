@@ -14,9 +14,15 @@ Please refer the the comments in all files to follow edits.
 
 The following sites assisted in creating the site:
 Day.js: https://day.js.org/docs/en/installation/browser
-Stackoverflow: https://stackoverflow.com/questions/70450660/save-dates-to-local-storage https://stackoverflow.com/questions/39735496/redirect-after-a-fetch-post-call 
+
+Stackoverflow: https://stackoverflow.com/questions/70450660/save-dates-to-local-storage 
+https://stackoverflow.com/questions/39735496/redirect-after-a-fetch-post-call 
+
 GeeksforGeeks: https://www.geeksforgeeks.org/moment-js-moment-hour-method/ 
-FreeCodeCamp: https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/ https://www.freecodecamp.org/news/event-delegation-javascript/
+
+FreeCodeCamp: https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/ 
+https://www.freecodecamp.org/news/event-delegation-javascript/
+
 MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions 
 
 ## License
